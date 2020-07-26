@@ -166,3 +166,4 @@
 | [641](https://leetcode.com/problems/design-circular-deque/discuss/?currentPage=1&orderBy=most_votes&query=)              | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)                  | 🟡 中等  | 栈、队列      | -   |
 | [49](https://leetcode.com/problems/group-anagrams/)                                                                      | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)                          | 🟡 中等  | 哈希表、映射、集合 | -   |
 | [42](https://leetcode.com/problems/trapping-rain-water/discuss/?currentPage=1&orderBy=most_votes&query=)                 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)                         | 🔴️ 困难 | 栈、队列      | -   |
+
